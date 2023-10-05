@@ -26,7 +26,7 @@ dependencies {
 
 tasks.jar {
 	manifest {
-		attribute("Main-Class", "me.dio.projetosantander.Application")
+		attributes["Main-Class"] = "me.dio.projetosantander.Application"
 	}
 }
 

@@ -1,1 +1,1 @@
-web: java -jar
+web: java -jar build/libs/projeto-santander-0.0.1-SNAPSHOT.jar
